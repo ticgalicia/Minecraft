@@ -1,5 +1,5 @@
 @ECHO OFF
-echo Script actualizado en:
+echo Script actualizado en: https://github.com/ticgalicia/Minecraft/tree/main/Launcher%20Fenix
 timeout 5
 echo Proyecto de la web www.ticgalicia.com
 timeout 5
