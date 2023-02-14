@@ -5,7 +5,9 @@ VERSION 1.0
 REPARA LAS SIGUIENTES VERSIONES: 1.19.3, 1.16.5
 
 Página de descarga https://github.com/ticgalicia/Minecraft/tree/main/Launcher%20Fenix
+
 Desarrolla http://www.ticgalicia.com
+
 Servidor de pruebas mc.minenoia.com
 
 
