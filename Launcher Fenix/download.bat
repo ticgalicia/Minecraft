@@ -10,132 +10,463 @@ echo lo contrario, no funcionara.
 timeout 5
 echo "INICIANDO PROCESO DE DESCARGAS CON EL PRORGAMA wget"
 timeout 5
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/a5/a5ed8088468b808c5e8b989cbf2f9a91f6b81a9a
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/3a/3a9ed34b4edf7aff31437c21e33d70ec685cc464
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/03/03ab92e11da3350097f9a8b7fc64b3d08577e40f
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/03/03c177e7254929d696f3ee2788b83c9977663ec5
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/05/051630bc60ef2549c1a572bc70087469a3dcfece
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/09/09eede33fdf1146c5722dc31a24eb914124aa8bd
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/0c/0caaf2f54a10e753379ca7f1db65f4436922c825
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/0e/0e002da8bfd0ac58f64cbdd567ed45f80c96ae3e
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/0e/0e88e8aa20c1215952ee6cd1b298d57ad398f08e
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/10/100072231fba38b6756fb95cb21c84aa313bdadc
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/11/110133689433951e1f936b68fd40b13e1e886ac1
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/11/11166e41fb5c1dde5537c8ba779104fc30aa1eaa
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/12/1206e154a6a4feb3d2f5b3199401915f4d97ac69
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/13/131786d1381d8fbc05081d0b2b59d6ec7c8f20af
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/14/14a391902bf0ae961b4c0dc9a01fbf9a1b2d7841
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/1a/1a6c5103c7962dcd702745bd951a0ef07e8217fc
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/1a/1a7c07c88425a22a31278722369586a602ab543b
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/20/20b6567b887a998a986aa9e947dbcc85d7c771e8
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/23/231feacc0be514064cc7b9d13c460f11cfaa1185
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/29/292430de6f8ff8a9e411393863e6bcbe41d51554
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/29/299b11a43803581d4a67b81ac7f5b11638eecd4f
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/2c/2c3581ccf91a2377d8e56317f8316cf2148ef263
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/2c/2cde08bfcc5649b1ec24aa824b8b952d3ea4c534
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/2e/2ed7a1ef19fd457f6ddfe7a0019a857c7444e017
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/32/324edefb3abd25b90737863fddfdfc89ff68094a
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/34/34cbfe76b4e1233bd25992e2532ad515b69335a2
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/36/36ab188051231295b81f5e2b2718d08f10bfbebf
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/37/377f92119686c235f408e39c3f77f6542036072a
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/37/37c44d844c17d7e4046b328a1349cea27e6e170f
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/39/39150caf1de8fdbb299360556e2fae00a3d328ab
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/3a/3a9ed34b4edf7aff31437c21e33d70ec685cc464
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/3a/3ac415e6c93b6313418e3af85860eff55ab886b1
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/3a/3ae5fce4d6fa278ced9bfc8681658dcf65a15575
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/3d/3d5109232f0cee40a6df7a0a72763c81f6f5015e
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/42/429661695106689d7b774fe165fcfeafd4cd72c3
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/45/4518539daba78899dffecfb1355ad129c1865a9d
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/45/458680c520d6a9629a01084277888687168f211a
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/47/47892e7a66bcc2aad8981a8719cd51b65debc8a5
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/49/4942a023ca44cb369bfec1476695cafa9c50b062
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/4c/4cfdbdef81b3240d7485d23f1dd7b950a2a378e6
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/4d/4df28190bda412a39d17349e784491fbafc4a284
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/4f/4f4de05ee963372dc737eb274b242e18465ffe72
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/52/526fc59e7dd99c95153e37721111e42663a56b54
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/56/562516b57725338f0b3088b8dce97cd1d8fec6b0
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/59/593a6e64b909d4b5207aff54dba1294f13a82a76
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/5b/5b399dc3298271a7977874552d97632b13abb2ae
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/5d/5d099569a7e7d05a125cede376ef6b3df95b2083
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/5e/5e274ce0d076843b46250aa931907a932f9f9215
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/5f/5f007370bd6e1ee98f23d3e4ae8a827b80335d17
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/60/601c07b4e27eb3388c68232feecff7e3f518324c
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/61/61478e1d69d24d6f2694f79b285ca16f64fc1fc0
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/61/61934ac5ec8f3e42bf13d32558a13f6980e6e7e5
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/61/61d957874902cdc1cf688afe17c3841587825b06
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/63/63cc7088ebdfcf4451d19e28c55a86d8d1fba09e
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/66/66d9c350d5a9923ba994b3643eb31a5b4da39f6f
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/66/66e7b669aea21d92521110f922093effe981cd25
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/6b/6b04ec9fd2fdd984092e5db334f1b8e0b61e4500
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/6c/6c206dfc8a0259350f3dd305319ab00882c1aae4
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/6c/6cafc64112a756c91cbad3a6e2c64f1aac123fd4
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/75/75b584272a462b54d26839370528b08cedd62285
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/76/7666bbc2122776811a31eabd1c832ff559baaa8a
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/77/7709f781ed11c59af502b83b98e05519e1ba0568
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/78/7862fe45dfad727d342dc9a3ddf1d86aa363a38f
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/78/78d1eff4ae18e3c3150342e8516daa3cd62c7f4f
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/7a/7a97b9b65211ec4351beb24f47998cbc284eb162
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/7c/7cf58f9972a851470aa0c509766f040375aa0fad
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/7e/7e31471116d0c8fd6ab6ac7418d5cdba21ba5ab1
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/7e/7e4459ca9d2a491a134a63f0d17026da8c535697
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/7e/7ecb8bd7a4e42b58d2b0861a05714ab25da425ef
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/80/803e06d2f74850c1b1b104ee59dbdf22b85620e3
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/81/81d6a2668e40b9934f3afdd67f6d19b489bf4ece
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/82/82cd8800e41c83456531f0605369dbeb64832ac0
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/83/83300459b5e0e2c78d19bb50573e4a378a4a9bb4
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/85/85ba64e7ce860a34c6ee9d78e704712045bcdc08
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/86/8635026ee676df4fd1539e600b2812000128ec82
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/86/86ce47d6d98159308cc727653c6190744330eda0
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/87/87752a90bd92578281e040343aef8c934786eda7
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/87/87b5041b09b68b188597cfd35adc0b709e0f056b
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/87/87ba22f699cd15e0b3e3a762ef625fce702098bd
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/88/881e4c20cd8ec13323b77597603d9c896877b4c8
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/88/88d81026c778abc44280929d14296d52aa5fafe3
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/8a/8a545681a96936cec784d1dd2e76d239c01e9f73
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/8d/8dc2e965befe9c730ed30d3f95520c54972e77ba
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/91/91904d3a84a2a1b3409bdd7603b7cecda3f67d78
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/93/93b8d5ea0dc44daece59c136880ad69613f61f67
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/97/973eb1a2d3ac9f0c82b28b6dbe0e0f5bdfa1d0c0
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/99/99f3bcf760a0e04be57df05e0fb1287055203167
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/9a/9abc46bb04e1bd6b7a4723353d21f4986349eb98
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/a4/a4d94ccf079899a076534c50137e4770dcd85e8a
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/a5/a5ed8088468b808c5e8b989cbf2f9a91f6b81a9a
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/a8/a81e151737c163e77921a42abba21125d2776081
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/a8/a86c0283258a6434a15f7ff2e94925a982090357
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/a9/a9449374577c69039dc2bf2c70126d9f233506b0
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/aa/aa25f4f8ed2bbea72637f1c0b20be8117b8db691
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/ab/ab67a9937b586fa35d52fa77d58c2067af119a00
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/b2/b24f6a9b479a8eb806b3959d40e83cc1fc011546
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/b6/b6553426d361b6be7a466ed19497b0e5332583ac
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/b6/b669440eef0c1f2021a8c618a070fdc36da176f2
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/b9/b95634328e31baa5c1524c86ebd9baf608b27a7e
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/ba/ba300b18d27de4c72a7d3eb5626fd87f1da5fb16
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/ba/bad603c88cad70392c747420771059473126b837
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/bb/bb4c33cc908d6b94f3ced594c2a24aa1c1b7b04b
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/bf/bf278cbccf961b452039499c268e4e4aa66d183e
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/bf/bfda4302412661c715c57d6a933ad9728bb6407a
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/c0/c03e14dd28c128d5fdeec33f420330562bf953c9
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/c2/c2185f8ec951899fedf6c051790d4c6b3aa73ccd
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/c4/c426d7cb4662911a1d1471132f49f96c75d4e247
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/c7/c701c2c2c31484f98fc70c532f49398a56a902f2
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/c8/c80a24c16890463ff358c41b1fb7719805250354
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/c8/c87ff220474aaac15bf0c204ab694ad2d6fb790b
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/c9/c9bb166eef31f94a0ecb0d10fadc513ee10d4955
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/c9/c9f398f795dfa5ccf7a0c6008d04abf6581dda00
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/cc/ccf370ad6e8d8b2e76d7d57c71e70bfd4dec4a7a
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/d1/d160bb60b46edfefeb0477d36720e719a9f7a488
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/d1/d18bc5b10c600e3ba557921f03200f273618a208
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/d2/d29215a467d19c9c816909e67353eddbd5e7231b
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/d2/d2c4903ddb816ee2a57f82ba4424f66628564cfe
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/da/da921ae3ecdda6a8a362b49514c633ab71c74d01
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/dd/dde2c0380631961d83f7bd8c7732ca18684f6cb9
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/df/dfb7d9feb289e2eeeaecc673d6235de569fc56d2
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/df/dfcf9d4072aabc3e282a9a574a3e8746fbc8efb2
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/eb/eb7c8108743ff95e5f40fe0fc1af9c6e15e94a93
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/eb/eb8993b36f9680b8d9391c274c7d78332bcd739f
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/f1/f144bcd36fdbeabfa72780d3fe0353cf0136adb6
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/f1/f1cdd001714a022cac1f83bfc1371093a81b2d27
-%appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/f2/f206b0065c4b2cd6bf0bcd78c3f2b75a44970564
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/3a/3a9ed34b4edf7aff31437c21e33d70ec685cc464
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/03/03ab92e11da3350097f9a8b7fc64b3d08577e40f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/03/03c177e7254929d696f3ee2788b83c9977663ec5
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/05/051630bc60ef2549c1a572bc70087469a3dcfece
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/09/09eede33fdf1146c5722dc31a24eb914124aa8bd
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/0c/0caaf2f54a10e753379ca7f1db65f4436922c825
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/0e/0e002da8bfd0ac58f64cbdd567ed45f80c96ae3e
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/0e/0e88e8aa20c1215952ee6cd1b298d57ad398f08e
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/10/100072231fba38b6756fb95cb21c84aa313bdadc
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/11/110133689433951e1f936b68fd40b13e1e886ac1
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/11/11166e41fb5c1dde5537c8ba779104fc30aa1eaa
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/12/1206e154a6a4feb3d2f5b3199401915f4d97ac69
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/13/131786d1381d8fbc05081d0b2b59d6ec7c8f20af
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/14/14a391902bf0ae961b4c0dc9a01fbf9a1b2d7841
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/1a/1a6c5103c7962dcd702745bd951a0ef07e8217fc
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/1a/1a7c07c88425a22a31278722369586a602ab543b
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/20/20b6567b887a998a986aa9e947dbcc85d7c771e8
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/23/231feacc0be514064cc7b9d13c460f11cfaa1185
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/29/292430de6f8ff8a9e411393863e6bcbe41d51554
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/29/299b11a43803581d4a67b81ac7f5b11638eecd4f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/2c/2c3581ccf91a2377d8e56317f8316cf2148ef263
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/2c/2cde08bfcc5649b1ec24aa824b8b952d3ea4c534
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/2e/2ed7a1ef19fd457f6ddfe7a0019a857c7444e017
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/32/324edefb3abd25b90737863fddfdfc89ff68094a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/34/34cbfe76b4e1233bd25992e2532ad515b69335a2
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/36/36ab188051231295b81f5e2b2718d08f10bfbebf
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/37/377f92119686c235f408e39c3f77f6542036072a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/37/37c44d844c17d7e4046b328a1349cea27e6e170f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/39/39150caf1de8fdbb299360556e2fae00a3d328ab
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/3a/3ac415e6c93b6313418e3af85860eff55ab886b1
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/3a/3ae5fce4d6fa278ced9bfc8681658dcf65a15575
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/3d/3d5109232f0cee40a6df7a0a72763c81f6f5015e
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/42/429661695106689d7b774fe165fcfeafd4cd72c3
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/45/4518539daba78899dffecfb1355ad129c1865a9d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/45/458680c520d6a9629a01084277888687168f211a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/47/47892e7a66bcc2aad8981a8719cd51b65debc8a5
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/49/4942a023ca44cb369bfec1476695cafa9c50b062
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/4c/4cfdbdef81b3240d7485d23f1dd7b950a2a378e6
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/4d/4df28190bda412a39d17349e784491fbafc4a284
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/4f/4f4de05ee963372dc737eb274b242e18465ffe72
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/52/526fc59e7dd99c95153e37721111e42663a56b54
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/56/562516b57725338f0b3088b8dce97cd1d8fec6b0
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/59/593a6e64b909d4b5207aff54dba1294f13a82a76
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/5b/5b399dc3298271a7977874552d97632b13abb2ae
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/5d/5d099569a7e7d05a125cede376ef6b3df95b2083
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/5e/5e274ce0d076843b46250aa931907a932f9f9215
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/5f/5f007370bd6e1ee98f23d3e4ae8a827b80335d17
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/60/601c07b4e27eb3388c68232feecff7e3f518324c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/61/61478e1d69d24d6f2694f79b285ca16f64fc1fc0
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/61/61934ac5ec8f3e42bf13d32558a13f6980e6e7e5
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/61/61d957874902cdc1cf688afe17c3841587825b06
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/63/63cc7088ebdfcf4451d19e28c55a86d8d1fba09e
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/66/66d9c350d5a9923ba994b3643eb31a5b4da39f6f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/66/66e7b669aea21d92521110f922093effe981cd25
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/6b/6b04ec9fd2fdd984092e5db334f1b8e0b61e4500
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/6c/6c206dfc8a0259350f3dd305319ab00882c1aae4
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/6c/6cafc64112a756c91cbad3a6e2c64f1aac123fd4
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/75/75b584272a462b54d26839370528b08cedd62285
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/76/7666bbc2122776811a31eabd1c832ff559baaa8a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/77/7709f781ed11c59af502b83b98e05519e1ba0568
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/78/7862fe45dfad727d342dc9a3ddf1d86aa363a38f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/78/78d1eff4ae18e3c3150342e8516daa3cd62c7f4f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/7a/7a97b9b65211ec4351beb24f47998cbc284eb162
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/7c/7cf58f9972a851470aa0c509766f040375aa0fad
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/7e/7e31471116d0c8fd6ab6ac7418d5cdba21ba5ab1
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/7e/7e4459ca9d2a491a134a63f0d17026da8c535697
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/7e/7ecb8bd7a4e42b58d2b0861a05714ab25da425ef
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/80/803e06d2f74850c1b1b104ee59dbdf22b85620e3
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/81/81d6a2668e40b9934f3afdd67f6d19b489bf4ece
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/82/82cd8800e41c83456531f0605369dbeb64832ac0
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/83/83300459b5e0e2c78d19bb50573e4a378a4a9bb4
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/85/85ba64e7ce860a34c6ee9d78e704712045bcdc08
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/86/8635026ee676df4fd1539e600b2812000128ec82
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/86/86ce47d6d98159308cc727653c6190744330eda0
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/87/87752a90bd92578281e040343aef8c934786eda7
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/87/87b5041b09b68b188597cfd35adc0b709e0f056b
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/87/87ba22f699cd15e0b3e3a762ef625fce702098bd
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/88/881e4c20cd8ec13323b77597603d9c896877b4c8
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/88/88d81026c778abc44280929d14296d52aa5fafe3
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/8a/8a545681a96936cec784d1dd2e76d239c01e9f73
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/8d/8dc2e965befe9c730ed30d3f95520c54972e77ba
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/91/91904d3a84a2a1b3409bdd7603b7cecda3f67d78
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/93/93b8d5ea0dc44daece59c136880ad69613f61f67
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/97/973eb1a2d3ac9f0c82b28b6dbe0e0f5bdfa1d0c0
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/99/99f3bcf760a0e04be57df05e0fb1287055203167
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/9a/9abc46bb04e1bd6b7a4723353d21f4986349eb98
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a4/a4d94ccf079899a076534c50137e4770dcd85e8a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a5/a5ed8088468b808c5e8b989cbf2f9a91f6b81a9a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a8/a81e151737c163e77921a42abba21125d2776081
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a8/a86c0283258a6434a15f7ff2e94925a982090357
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a9/a9449374577c69039dc2bf2c70126d9f233506b0
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/aa/aa25f4f8ed2bbea72637f1c0b20be8117b8db691
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/ab/ab67a9937b586fa35d52fa77d58c2067af119a00
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b2/b24f6a9b479a8eb806b3959d40e83cc1fc011546
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b6/b6553426d361b6be7a466ed19497b0e5332583ac
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b6/b669440eef0c1f2021a8c618a070fdc36da176f2
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b9/b95634328e31baa5c1524c86ebd9baf608b27a7e
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/ba/ba300b18d27de4c72a7d3eb5626fd87f1da5fb16
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/ba/bad603c88cad70392c747420771059473126b837
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/bb/bb4c33cc908d6b94f3ced594c2a24aa1c1b7b04b
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/bf/bf278cbccf961b452039499c268e4e4aa66d183e
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/bf/bfda4302412661c715c57d6a933ad9728bb6407a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/c0/c03e14dd28c128d5fdeec33f420330562bf953c9
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/c2/c2185f8ec951899fedf6c051790d4c6b3aa73ccd
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/c4/c426d7cb4662911a1d1471132f49f96c75d4e247
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/c7/c701c2c2c31484f98fc70c532f49398a56a902f2
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/c8/c80a24c16890463ff358c41b1fb7719805250354
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/c8/c87ff220474aaac15bf0c204ab694ad2d6fb790b
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/c9/c9bb166eef31f94a0ecb0d10fadc513ee10d4955
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/c9/c9f398f795dfa5ccf7a0c6008d04abf6581dda00
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/cc/ccf370ad6e8d8b2e76d7d57c71e70bfd4dec4a7a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d1/d160bb60b46edfefeb0477d36720e719a9f7a488
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d1/d18bc5b10c600e3ba557921f03200f273618a208
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d2/d29215a467d19c9c816909e67353eddbd5e7231b
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d2/d2c4903ddb816ee2a57f82ba4424f66628564cfe
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/da/da921ae3ecdda6a8a362b49514c633ab71c74d01
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/dd/dde2c0380631961d83f7bd8c7732ca18684f6cb9
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/df/dfb7d9feb289e2eeeaecc673d6235de569fc56d2
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/df/dfcf9d4072aabc3e282a9a574a3e8746fbc8efb2
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/eb/eb7c8108743ff95e5f40fe0fc1af9c6e15e94a93
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/eb/eb8993b36f9680b8d9391c274c7d78332bcd739f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/f1/f144bcd36fdbeabfa72780d3fe0353cf0136adb6
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/f1/f1cdd001714a022cac1f83bfc1371093a81b2d27
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/f2/f206b0065c4b2cd6bf0bcd78c3f2b75a44970564
+echo Mas...
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/90/9089d7d5197f6e08ea330e2115312742376ee4da
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/1b/1bcbc0627b03c1b7223a1841e65a1a4d7aa832b6
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/84/84feb1996d439e7fea8236052da8d7a82ab93f93
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d1/d192483f5b6196308af09084b605ca7113661c9c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d0/d0a0ee31c10dddcc63d2658066fe3f905d4097c4
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/9c/9c1c8e81dadb95463b2bcebafc5fedf3c7519308
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/88/8833e1066b6cf1d0f4e0c4488a7cd6d328875740
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/36/36c96049d0d676c3d9e32134aae4d62cbf1c55fc
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/5a/5ac5b399b95716ad2228ce4abc149ab3356dff57
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d8/d8c702049c95ed5389b09fff37cba9f65c7fbc6f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/6f/6ff4a428ae9457b0e1158f8a8dee887dae205058
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/2e/2e2488ce8011eb595bd0983da0621157ae766448
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/80/80a161d27f2620b0e46f0dda35f060e1ae360fef
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/1e/1e4686d09d8c64080351a272a585bb8025d7010a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/55/553ddb6e15c9de5fc91cb57561f168c7cf0be7e2
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/af/aff48bb965a1dcb56650d20a163e13d96ad12752
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a8/a8ba881eb105f6981b166d7a5a546a7bb08185bb
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/74/74c8a499c67fbc195cf63cfbd018e10753a7109f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/bd/bdeb39d948255f9f1ec12c018ef6b085a600134b
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d7/d79b21e8e9dc1d218273af6b2ac38fec8d7cc3b3
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/82/824454b50fc331dc698f683faf567f9e7cfd0f06
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/67/6728f4caaae09bf50ee7431eb450696ea42b11bb
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a3/a312fc8c2ed7c9a92a70a65a97dce69e851236e0
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/47/47ead308ca6474e6b00c14736ad6d102a4ddf2b7
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/ae/ae1e707587d790ea2356b1b4599c447f21e9ee49
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/18/1841f28995a7fab4133c3fa7440c2704b4f2b454
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/f2/f264231736ed7d8384ac60e77d8916adbcc42d32
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/83/836d27d4003c0655fb306236ae95176b2b10305a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/0b/0b8b36e65237fd5e5ac805497931a84480070b29
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/1e/1eda9a53b2b09a2cbb8098f23cb0e5a893141e8a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/69/695633c8c43cb1f51813ea179b70faea51f81375
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d6/d6318a595afb43e7abfe35bc9e01eed5ec7bd32e
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/65/65503e975f9744f88c749cac7381053431b58b28
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/e8/e8eedc0b93ddc7604bc24573cf1b261375564488
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/6f/6f342d78e2701ce1a57ca2e7bc1a02c36f487bed
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b6/b656de64d17b5e26f65461b98b50fa5888c59ff8
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/e3/e3f6fe72c697485f41b078543fd09c72b00224c9
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/4a/4aab2487843d381c04bdffc2895f4dd15afc9374
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/f6/f60739f017fe663593125a9f02b8094268de58b4
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/54/54d69dc878e2337038a6684c991c91b132318d81
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/35/355916a67189688f54a215292775ee0be3d779aa
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/94/940f5bb051d86de35b276fa07a52bcee2e93b50b
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/dd/dd42cb4bb2727f84c0276d9f7ee86b15270dae93
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/32/329b23d398a661ea406b7f5d0088b03ddaa37e0d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/4d/4ddc32cc7a2f64dade1b64c84612687d6257e6f5
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/4a/4ab0784a09f4d2187bed3986287d771f2646d2a0
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/9f/9f7f3043565af80b5b80621e528bd9e2fa71ba27
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/8a/8a607f88b5edfafbf0e74b3e090226b8fd4a1031
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/49/496aa18c0d176a7a794185ccfbbe61c292c246d4
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/4a/4acd9caf102a8115ed5684603f1eef15ef2ff80c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/18/1835d2636b7aee27ef71af6a8e6cf8df94a00a7f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a3/a3c3f7883b76a74246801a24c9fcc4a07e4ac0ca
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/19/19ac2208e9e946df4493e9b7cf02f6a97823e3f6
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/4e/4e40cbc7ae8c3d4fdcd34baf913082d98f721038
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/ac/ac026076ba763425873f8e7a6b4278c4a50b1d25
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/fd/fd8c1261e3f84585015e55b2e7bd933e8037f6ad
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/50/50e5ad0f03843cd9b3661596f61e1789f00b245c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/e8/e88f2faae8c20dfde09fc1353f584d5690adbc7d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/3b/3bc9a64ef1fc32da7cf33b7d0ac683849b1e251b
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/36/3686d2db348ad096f5051766a5e87235e7485732
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/3e/3ed2c433d2cefc16963f5524678ff568dae023a9
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/36/3670c5442cca857f520c9ce5e06119cff33fa76f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/ac/ac951abbce5b5a322067a1372e7b5c5aaf67919a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b0/b040ca8784068a74f191480780878dddad0abaf7
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/95/957c1e74f609ee37f6c6beb24c3612ecdfaad57e
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/4e/4ecf47cce56d5617a7c12d15eb72aaa9fc8b5709
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/1f/1f3db4abf2a5d01a4b3de07d99e074d60eb37f7d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a9/a920daa0275dc73d2cc190a7891ce3fcfacad32e
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d1/d153df9f39bd6587180ed95d045db2e95bedc2f5
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/f0/f01f1d4ac5b140ab71cdd60ad383a95430556df3
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/ca/ca1fb14ccb6ed550d56aa28a888a234536df98a2
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/cc/cc33ddeefb291003c41bb7bac2084c2b046c7c86
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/13/13e3ccfdea5c29e2f520a776ce0734ca74c88649
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/24/24fdd20f5b5012c77fc69648898d4b978bedf55d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/df/dfc9aad6d2cf8d139b322c242029c050af138b76
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/55/55ab4145ef138d975fc8ed4d6f3ca76f2e6d44db
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/2f/2f732a4ad7d350e04c2e72c080fe08f625721e97
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/40/400b53d04b4ed75a8629161ae87213655b34099a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b2/b26ea7ade8fbad888005b69dffc18f130e8cb021
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/df/dfc88386ce3e53c9013fb511a8a9eb814b41ef28
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/df/df14cad56b6327fa021d03b1b69c57283e866b60
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/16/16fa98ac9497ebfd1fcb7225125b8b15ac9e4338
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/dc/dc1883de6be5555cdea10825700795729662eab8
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/c1/c15b89704e35b6b5a723010a34ec99c402192127
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/e3/e3263d22699ef08f8eefc6be976e660b0fe91d81
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d3/d3607976934f85599b077ac75f0d5d4e42ce8983
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d4/d421df87f68c66a72c3d1451efca9519f1c4d81b
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/fa/fa90cb4906d721a0485570c74a817fbbd7452e59
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/03/03e2ec645f9de3c20fb6fdd89d521ca7aa35d6b5
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/aa/aa1c8d27e6e9210f9d119e70d3c9dd97037e6e2d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b9/b92470b4b194d41037615db9f961e6565f5b1f3a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/3e/3ed678221d0484fdc202e9b6e8ce77da86bfe45b
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/0c/0cc88d3ae40d3958de89ce57901940f6f081c4b8
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/0c/0c48e3b222a9232914239449939d7a92886401f0
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/7a/7a8a037a3f850e8456ad9eb04e8ed195c79ba1f4
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/2a/2ade7991b757676b4bda380c7e03f27e657acef5
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/9d/9de7b25bafde594b08bd3033062de8f9c0c33e1f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/67/671baf88aa3bebfb64f2ea2a2c8838c5df4c9cfa
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/48/48efe673dda01fefa8cf287a236add0a23334b08
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/bc/bc0a2ac6e1e86b632504e4fbd54c2fb45dcf450a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/61/611f5163b6ba7c995d1ff9822830cb41fd9d140a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d3/d395c8461dee5382928f55ce9ef4e405181b0689
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/85/85ef21b977fe74d4eba376e2d95a4453d55a2149
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/1f/1fefd007c1e70e32d76d5a769de006e1a9161fe5
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/64/648822787c09b474a81d039e5e11f4c9470c8569
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/98/9800b9b547ec987eff479add715de1acbc24b311
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/c4/c464f1b0415105a61e9ac40944535ed8cefb9939
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/08/08c69088600aee936eba5fbbf663fb03b7634a79
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/c8/c864995dfe6e27e757f461887a04e8db9b4a3cdd
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/7b/7bc0bbd5a259c1d2aacff9d3e07543a9d1caaaca
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/72/722b66b7731945423812236ba102a6bf6f540b4f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/7a/7a3eedfda0c94ea763479f051d9e338bf1d4ab23
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/af/af6b7387f6d3140d630060c8efe5d25493d9e69c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d4/d47f18a67f2765ba4930469266429f1440b94772
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/fe/fefda515e0371929a93b598217f883ae23ae4185
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/17/179bdc9c9436143f297d1338744bbe7d751c898a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b2/b2efaa20875cc2eb74910c03361a67565362f869
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/5c/5c84f54276722bea66088e2774e0fcd00929ae58
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/4d/4d56986efbd9f0c9f6c8a2c4916f17d863456d06
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a8/a8be4f7da981f6b2dd4f8274426db3ff95e48375
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/5d/5d2949b53422c2f41c75da6167c771adb6e34cfb
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/f1/f114cdedc6fdd7564e6cddb8aa9181bd524ef813
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/2d/2dd6b321543a32b5de5e6bd3bee9ef82b5767a54
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/7b/7b3d4e56ae5ba12e8a89a85fe434752908706936
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/68/68e6d3fcd39828f34cb408c7d6db6cce3e49da2d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b5/b56f19aae155a350799282fd0f0b9b813d7f945c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/1c/1c95806119d8ef99a37227c3d4652cc9965ab0bd
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/95/9508bdcab8024ee69eb278c2445fa8a6ccdeaa6d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/23/234dbf80a8e05ac860acd5cbf11818d5c43f7d29
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/98/98fe2b2b0c6bcc3f921c1ae8ec0686b719569e70
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/44/44361b4a737ed88adf39ed223388c2e5fa1d5e5c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/1c/1cead9b23c178f00cefdfa72028a1a8e11b0c226
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/32/328cb372f5cec2977d7c393c7005966d6eed9ac5
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/0d/0dbef1421600286f09735bd2fc77552185c88c89
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/0c/0cc9405f93aa5b409e27cf2428c828e7d55edf74
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/3b/3b4d57ebb6fdeba68c0928049ffa5a2a6cf03a30
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/cb/cb4173aa39e5c90134e569f456831a33e724cb09
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/17/17bdc1fa90b01abe16918457cf4be2e050e2e6e8
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/90/903764f64ec1ebdd18ea4329b73643dfa2291146
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/0a/0aa8571cf5a2ee3d7b2d8a91ca0d712a2f2c9f61
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/70/707536e8e6beb5309db5cebda68963e9b36cdd24
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/47/4790c6495323b987a81dd689e37cbf43a26db405
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/80/8088ee5270c3f521183d873d89c4e78371778a4c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/95/9563fbb7ee1d7d2908e3aae62fbdb2b01107d09e
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/8c/8c0405897b2a1a48d410ed7cc7b23cb5f1940006
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/86/86e77da60313a9cef9214e6caa85a6ff247a53a5
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/48/4828ba8bc9f8bfc42226efcf34f7aea7c14b69ba
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/c7/c74803f3ce104936fdda7fa7b2432e0926f94115
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/60/606487eb2de7bc4821b0016bda277e03890cb8b0
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/ed/ed9a80e163332bdbc928db7ec551d4a1c1a5283e
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a1/a12450d01da4b071353ff286fe2a99066498d46d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/fe/fef2df969cb6dd76603624c4d348be8a5d485dcc
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/50/508bb207d3fa3013a84638b2c8a8c29f5ba401df
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/14/14a0af36cbdaa99e72a50f5aa3a6d518f1b494ec
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/4c/4c20018635bcb0fbfa7eaceb70d8b0950dfe5a90
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/fc/fcd3618424222135f0a7d72c29700d8da7e9f6eb
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/53/535b35dfbf32861e46b3f1efd65049e701ac95c7
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/f8/f8807814d08f238929538d6ca640c75bbd387c65
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/62/62a724940b6acea78a7e3d5ed323b2a98efb781a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/86/8667729ff51632e83a47cb8e72ef96db141820db
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/07/07d8464e662f96bb3b899dd50274774fd5943e5a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/6c/6c53b74f97c248f4a293da24a67bae27baf0b5fe
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/90/9047bf64ae82faa833ad38a9a21257bd3bf4c75a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/94/940ffc14ec590b1eb7d606064e4e6876d70b5133
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/02/0265cf5dd606eaafa3f66bf43970e0db43db2cf1
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/60/607f9cc9083bfa90f26995a7e22fe466a5ca9c44
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/54/54a614436a43b11c1cbe58355a5db0b929c9ff89
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/60/60e9ef66dd4bf976c34898023494d971a2f65ecf
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/17/173b1da54317eaa261d375225632c6d59288e34f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b0/b0b84898f759e5ac915b2a3af668e8b21c953ad5
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d6/d6789693366eb62de2a021aa298a53311ffe164c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/88/880d5e1ebb517f95a560b352ab28e22c28b5a8fa
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/e2/e271315d1d6b8496113f7b5b50cd94b325ff06df
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/21/21d4ebdf82249ccdcda3f01b23bb783490fe57d7
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/09/090697aa306d9bcba3793d3c61b66d417df7792a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/24/24de6468a71d73e4d139d71c8e2704b0db7e81f8
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/88/882adf0c362f4307584acdc7cdc25c19a83a3386
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/40/408e2a1eb0550e1d26d8b07084c3fcf596c31bfe
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/38/3828914a60e52512a43117b31498528c19e5d37e
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/c6/c60eb286744b20e699e8ae34a73862597e8e4c01
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/5f/5f26f07a2ce498736dfd4542084f047d80e0a1ad
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/56/56fab9ef435412040d10cfa08b06ff2607b7fea9
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/0e/0eecbb148dcc0a45c3f09583aa462ac53dd056bd
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/f2/f2dcf0dc0dda489f5314a0d24fba0e2bfc0eb1ee
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/85/8551cf0aa0898e7a33538ec89e63621ee7f28ac1
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/46/46e3718a4a4bba759f372b81bdbfcb407354c1f4
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/72/72368f3ca35fcac7fdfd9442096959c3dd116399
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/7d/7de922538314b6e3490bc3a4f3cb719e61393127
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a0/a002f1bac780d6d946be5eaa833de0e1841f3215
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d6/d68e2c0d97bbe8de80b2425e0744000834e36a72
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/7f/7fa6883a7af2da54483f1c08e5ed1dc97a34d62e
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/55/55f06c5d247175cd1b819b53360f8c99f670a722
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/8d/8d401a9864ab9396c2c000cd43cd84692ec70f02
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/60/6022087767b94ae5ab2f57f1ad256b0435e7e48d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/97/9782548daa858cf49da0dbadb0d828fb63e6b1ed
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/74/742e0210dad423ad9da5535041dfd6561ede0e38
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b4/b48f11e52050efa71764d793122b98ac2d54ddea
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/1a/1a07b76ea50a3e33b63cfccbb51a12492c9bad8b
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/2f/2fc860621ad540bde9d1f89fc4f7ff12fa01c049
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/ab/abe2633a696ef636d7fa0231487ea4e750830a0d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/23/2349535d52c0008e452bc1007d32fd0dca5a985c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/57/5716954e6041e0ec81b8d13b18b31b576d0067ee
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/12/1202770462c5d3ae0a0b6f61c6dfa66729a0c15d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/e0/e032752efd450c7ea4424630fcaa3246fd589718
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/e3/e3c3d092c5ef080c6daf139118c9da725d2ee59c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/28/28551b68a7aeecba763cdc98395523a16b6d29ef
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/59/598e89c3a8b5049179e11e8501d90a44c89fa2b6
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/2b/2bf7c2dbb5e137de08966a7e9b5c6ad86a8a2d22
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/8d/8d83fef778b1c4a7df04355ced9638f4216a48c7
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/28/2817dfa7c514477df8bb29e619d2c005991bf701
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/bc/bc776fbfa87a4a3b83fe340310e955381eb4099c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/f4/f4a9e6cea5caeb3690669b230bf2a2a8d66aba76
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/f4/f4ed6850c5782fb4022e37f6acd0ad70aec21d27
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/90/90465f1542bd76c38a21881b23c18abf067f81ba
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/05/058a61ca137bd0e0803aed3d3d94061f55324052
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/83/837d9e16ec3446168a785b21b589f67559110bfb
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/15/157693bffdf434eca79edc0688e8bfbc3e2c85f1
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/69/6994b2d54e4ce1e6b65efefac0200faffa7386d0
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a7/a7ffd93b890ffa30cc881d3280a66051210b6c3b
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/5b/5b34ba0048947e1cfa8b4b8e31b8ade167147dfd
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/63/63902952af82a1046c5461a1b20415fb2c6e102b
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/41/41f405b500928404ef117dffbe01d21b15ece13d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/eb/eb384510c67b56612faaeb1ac2907a3e7ca4333f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/e4/e4702a4cb07def56ffa9da0c105c0241ad3bd826
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a0/a0862a1cc7d31dd37e33854f95958a9276d4fe0b
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/33/33bab73536ccde1205b5c77001b55f9289769e1f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/9d/9d2eb3170a480cc94803ff3c6f68b87c1ffd5e0f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/97/971452802a989bb7da353fc9b1bee56453f654ba
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/92/92bf309e0de4d48d30080384428166c22bd84d35
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/94/949cf436f9a828b4d9615e9d53186dc241ce48b4
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/67/67ca27f41a2e0d9b43c711be34e62ec25ff1fb57
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b7/b7970d1be71e3b0f8dc48a7b0a3ce88d9332f345
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/16/162e1406a22bda7483ad1b643a4277bec636c26f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/74/7425e3e9082b34174bc803a0b5b639c45b9f6631
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/21/217d71d1a5eb91491a8f6f5e7e648c08179e3e2f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/cc/ccb268a7b34662888ed45985e8b232d9409879e0
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/7c/7cd3d8225fa509ad313cbf622341b90d0b641e7b
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/99/992b7f42a7e4f3b55e64658c10619f55a2e3802e
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/10/104f7414f9620d1ff8b20b1ea1c85ed48a995c92
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/c2/c2511ffc48374a7b05f83e0718bba9875a1ecfa7
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/86/860e9f0bd465ef7b412cc9be1a33025cc6b07050
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/10/10c8d501eab26890772d6b8b89f1d925d03f3cd6
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/ff/ffa8d698ddccefba63cb8236219ca17a369fbb91
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/f1/f17035737f6d0e184fece71b18f0d44b1639e64d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a3/a322e1d1b862e4fc7b7b26557d5908f316ad3623
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/ef/ef3675766e2bfba3b8de4fb707d2d12baba6cb18
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/e1/e1524bcf630bcc9e04f7bb9cf9c3eaf353634a0a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b8/b8da4a5f4f72955b2b612826700653cba9c09328
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/1e/1e947fb99bc5f2403724c239a8a7ad5e0f1369dd
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/01/01b151d31f674044b1c5cd455d00eb4e481ac686
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/c2/c2e26760b5d899bba02e6e2f29ce5ca4e87844b6
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/e0/e0720fede3f18534b8cd95c8d6441e3974bffe4e
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/ac/acec32e1c1fa5032a7f613b5388b8ba6b6439c84
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b2/b29af237376cb8030891da0af1d12e505012a393
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/20/204b51ed92fafc4fe90a275d012db53583a3671b
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/89/8965a35d33d606de3350d16f9ce11c7a52a985e8
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/09/098dfc8b3a5d68f994fc277cb0910754f542ef5c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/cb/cb34c80f840c6e13ae94f229e891fe66ac354dbe
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/05/0538cfc786fc8c324a5c31997ed0866b9e683b26
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/3f/3f51e3a40c65beb2163794605b288604036b2db2
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/91/91e90c476138ab63fd578477dd95f76ac14934a2
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/28/28afb346c6f9813453c9ab4fd8e7b8a5f4c7b3c6
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/cf/cfa6b5584bfefd0fe405e8e1e04f15191462af08
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/38/38d5352cb5e376fa0d26773ade97425d03095d7a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/01/01b804ac105fb6e4aca2a64d78643a031f848405
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/cc/cc8b36813bb1701d9933109f7107e81753b0f7d2
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/30/3074b4ae157b43321c2310de6e930b6584e1caac
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/ac/aca745c870a8e3eb0c36fb0b63515a625752cc9c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/59/5985e73faa571a80ce67ea3ced8f90483bf942d6
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/0a/0a7a70afca4e1cc3c405c81410daad84ae4d5bab
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/21/2153a99ee979bea5121c8465cbaf905e1d1cb0ac
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/2d/2d1fb8532191508b8f8563274363cd2a35221151
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b7/b7b138a244bb67841cd60f36bd3b553e3db944ce
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d7/d7f180ff421b3ea55bb52f377829df80cb61950c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/84/84b59b8022ec26b1e4e98491a8093836353c5dfd
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/83/83a533615eb1fe15085cb0b4b9d835ea55406e35
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/be/be24e53e92f17787b16dbc019d300c204a41a967
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/80/80254e65690f23474f5edb2f04094bcaf9e897c0
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/5a/5a1746448c594e0a59941912bce82bb8fa0406ea
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/5f/5fdb7dfaaead3fac114c06fe7079426fdff0172f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/bc/bcc872aebdacf04a0c7e4e510e82c93f72a307da
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d4/d4d026beefbd60dde82c3ac8aa3230abe1ace1fc
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/8a/8ac864916a37c5bf4e5c927a1182f1576ea7e94a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/25/25923916867fa5aedf01d1f646c21b88c3dd69d0
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/03/0341fb6d367ce30371bf20c7c7ed6995000c6055
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/2c/2c7ae2b5d7265a4f1eade42ac99065cbf8867d2d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/ed/ed076b12b98cdd7ddbc5391e0bafcf304b17a21d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/9b/9b7ba793b83258f54a9d338d1296f267e12d60cc
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/9b/9be5bd79cec57751d647b70d2502ef7ea23a4791
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/c1/c1922dedcd1a38ae0b335d6685bf4cf3df1ec5d9
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/5d/5dc0572f9ef82a0701252dff9b9c4f109156aa65
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/78/784891ecc861171b9fc9397b41b0926aada4ab29
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/00/0013485e9449e914908ca89a8dc1369eff037a26
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/b2/b28c3865582868f63f1efe6e6e78a28b7e3f9e3f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/12/12cbcd1d2e1f2808b7e1f4bc3e172b1110d1ba8c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/98/98db629b66728c87ae4e4fa688bb3aee71d92b72
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/11/11b751eb6884a482b7d81fec44be19a08b8c943f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/50/50dc781ac900945b3e03fd265a835c1bd03ce04d
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a6/a614902cf90159fd9d1e5fc86af68479534a5ed5
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/f6/f69923d3997e201e375daa99449249eab23fa123
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/e2/e27e79a97bb23e1aaf590e47aae88557a7b14cf3
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/5e/5e8fccea0bba331517a237cc83d203661045230c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/7a/7aa18022b06bfdb160c4f9a065b29e758644dd8f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/9e/9eeebc552c0bc102216e622a65d2a7cd381b2864
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/3c/3c3191e5625a1ca492e8b556b70f78a2b5889628
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/bf/bfd094a7e9c3c6f3bda315596ae97de16c4bce15
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/8a/8a240f9292a601d5e039bd602783f1f924287375
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/24/241e9041f3af4d599a093d66599823f27a7c9c7c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/da/da49132061efbdacd64f9b9ae4800182a467b603
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d0/d0cf47229e35ca91c2c70e8cdef1f1f842a1a0c9
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d4/d4cf3c6c0ba86fbeedda0460dd25dce4f4762ee5
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/fb/fbb396e92fb0b426d0d85881447e65976597e157
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/75/75c7b109405d04ff20e1f5750969b3899a590358
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/8c/8cb6fc815100eb6b48c8a7670dfbc96ee9d84070
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/f0/f026b451f2bb540cb6c6769599b56b010b066b0a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/0f/0f7fd126dd60ebd66a2d4466502c223e4c0f4975
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/1e/1e37a7e44e34d5a0e338c2d57424eaab4ba8eb46
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d9/d9f26e00e05e64a583541e511a66db93e6ca07fc
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/d2/d2c52968ada3252f93e269f95f69aebe880d2dfa
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/ed/ed1727e71588360e17a9ec891e448e2dc7cfe4ea
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/cb/cb64ec8567cf97127b0142dd6fa880b0347c3cdc
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/cb/cb5c412cf4108cfaa7b5642e6a34294d85efcf55
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/99/990c8ff4080e2bc0f3beb0cc11b3d5e5decdf87c
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/f1/f1143e5adcd07dc885ed44d949886ce6fd870398
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/a5/a5777c6bab68181758cca5617d62d0dfbfac6df4
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/fa/fa4cde3a4a7c969f67c0db580e2d1a9753894a06
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/4d/4dde7bcaca14f997cd72c638c651ca293bf4411a
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/41/41f5ff104a1d3ab88c363fbe8d4a0614cb016ea4
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/aa/aab5cf806b0948e7cf0b858fa36385913a2e486f
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/0d/0d029b1342df6f8695bcc71b417d499c156fd4fd
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/cd/cdf49946c33481ce4cc5210c6e22d26ed2a6cbc6
+%appdata%\.minecraft\wget.exe -phttps://resources.download.minecraft.net/ac/ac64133d31d4fcfe53e20bf26bc1ea6643b33d27
 
 ECHO COPIANDO FICHEROS...
 timeout 2
