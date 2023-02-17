@@ -471,7 +471,7 @@ echo Mas...
 
 ECHO COPIANDO FICHEROS...
 timeout 2
-xcopy resources.download.minecraft.net "assets/objects/" /E /H /C /I /T
+xcopy resources.download.minecraft.net "assets/objects/" /E /H /C /I /T /Y
 
 echo BORRAMOS LA CARPETA TEMPORAL.
 timeout 2
