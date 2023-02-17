@@ -7,6 +7,7 @@ echo Es importante que el fichero .bat y wget.exe
 echo esten en la carpeta %appdata%\.minecraft de
 echo lo contrario, no funcionara.
 timeout 5
+cd %appdata%\.minecraft\
 echo "INICIANDO PROCESO DE DESCARGAS CON EL PRORGAMA wget"
 timeout 5
 %appdata%\.minecraft\wget.exe -p https://resources.download.minecraft.net/3a/3a9ed34b4edf7aff31437c21e33d70ec685cc464
