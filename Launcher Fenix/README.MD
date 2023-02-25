@@ -22,3 +22,6 @@ IMPORTANTE SEGUIR AL PIE DE LA LETRA LOS SIGUIENTES PASOS (PARA WINDOWS).
 2 - Ejecuta el proceso download.bat (Bajará las últimas librerías)
 
 3 - Se descargarán todas las nuevas librerías y el launcher funcionará de nuevo.
+
+
+
