@@ -19,6 +19,6 @@ IMPORTANTE SEGUIR AL PIE DE LA LETRA LOS SIGUIENTES PASOS (PARA WINDOWS).
 
 1 - Copia download.bat y wget.exe en la carpeta de minecraft (%appdata%/.minecraft)
 
-2 - Ejecuta el proceso download.bat
+2 - Ejecuta el proceso download.bat (Bajará las últimas librerías)
 
-3 - El launcher funcionará de nuevo.
+3 - Se descargarán todas las nuevas librerías y el launcher funcionará de nuevo.
