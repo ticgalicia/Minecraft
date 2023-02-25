@@ -23,5 +23,11 @@ IMPORTANTE SEGUIR AL PIE DE LA LETRA LOS SIGUIENTES PASOS (PARA WINDOWS).
 
 3 - Se descargarán todas las nuevas librerías y el launcher funcionará de nuevo.
 
+IMPORTANTE SEGUIR AL PIE DE LA LETRA LOS SIGUIENTES PASOS (PARA LINUX).
 
+1 - Copia download.sh, listado.txt en la carpeta de minecraft (/home/usuario/.minecraft)
+
+2 - Ejecuta el proceso download.sh desde el terminal con el comando "sh download.sh"(Bajará las últimas librerías)
+
+3 - Se descargarán todas las nuevas librerías y el launcher funcionará de nuevo.
 
