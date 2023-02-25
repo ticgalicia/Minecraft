@@ -17,7 +17,7 @@ download.bat contiene el listado de los ficheros y se encarga de hacer la copia 
 
 IMPORTANTE SEGUIR AL PIE DE LA LETRA LOS SIGUIENTES PASOS (PARA WINDOWS).
 
-1 - Copia download.bat y wget.exe en la carpeta de minecraft (%appdata%/.minecraft)
+1 - Copia download.bat, listado.txt y wget.exe en la carpeta de minecraft (%appdata%/.minecraft)
 
 2 - Ejecuta el proceso download.bat (Bajará las últimas librerías)
 
